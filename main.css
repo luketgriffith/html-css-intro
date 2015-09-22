@@ -1,4 +1,103 @@
+/*******Header***********/
+h1 {
+  background-color: #52a37b;
+}
 header {
-  color: green;
-  font-size: 50px;
+  background-color: #52a37b;
+  text-align: center;
+  padding: 5px;
+  font-family: Cursive;
+  text-decoration: underline;
+}
+.about img {
+  max-width: 55%;
+  border-radius: 20%;
+  border: 2px solid black;
+}
+/**********About Me***************/
+.about {
+  padding: 5px;
+  text-align: center;
+  font-family: Impact;
+}
+.aboutus {
+  font-family: times;
+  background-color: #a2c0c2;
+  text-align: center;
+  padding: 5px;
+}
+ 
+
+/*********************Cats******************/
+.cats {
+  float: left;
+  display: inline-block;
+  background-color: #a9e7c8;
+  width: 45%;
+  text-align: center;
+  margin: 2.5%;
+  height: 90%;
+}
+.trixie {
+  float: left;
+  text-align: center;
+  margin: 0 10px;
+  padding: 2px;
+  display: inline-block;
+  
+  }
+.trixie img {
+  max-width: 100px;
+ } 
+.julep {
+  float: left;
+  text-align: center;
+  margin: 0 10px;
+  padding: 2px;
+  
+}  
+.julep img {
+  width: 100px;
+  
+}
+
+
+
+.catshobbies {
+  border: 1px solid black;
+  height: 350px;
+}
+/******************Hobbies****************/
+.hobbies {
+  display: inline-block;
+  background-color: #a9e7c8;
+  width: 45%;
+  margin: 2.5%;
+  height: 90%;
+  
+  
+}
+.hobbies h2{
+  text-align: center;
+}
+/*********************Footer*********************/
+footer {
+  clear: both;
+}
+footer ul{
+  list-style: none;
+  text-align: center;
+  
+}
+footer li {
+  display: inline;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #008141;
+  
+  
+   
 }
