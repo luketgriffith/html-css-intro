@@ -120,4 +120,6 @@ footer li {
   clear: both;
   background-color: #52a37b;
   text-align: center;
+  height: 50px;
+  font-weight: 300;
 }
