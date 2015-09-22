@@ -100,7 +100,16 @@ footer li {
   border: 1px solid black;
   border-radius: 5px;
   background-color: #008141;
-  
-  
-   
+}
+/********************About.Html*******************/
+.bigabout p {
+  width: 400px;
+  float: left;
+  padding:10px;
+  margin: 10px 20px 10px 100px;
+  text-align: center;
+}
+.bigabout img {
+  width: 400px;
+  float: left;
 }
